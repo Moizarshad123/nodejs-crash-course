@@ -1,4 +1,6 @@
-nodemon // to run server
-lodash
-express
-ejs
+npm install nodemon // to run server
+npm install lodash
+npm install express
+npm install ejs
+npm install morgan
+npm install mongoose
